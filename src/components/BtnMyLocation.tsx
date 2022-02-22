@@ -18,7 +18,7 @@ export const BtnMyLocation = () => {
 
   return (
     <button
-      className="btn btn-primary btn-lg"
+      className="btn btn-success btn-lg"
       onClick={onClick}
       style={{
         position: "fixed",
